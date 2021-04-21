@@ -1,12 +1,12 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
  
 
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact" />
 
 </a>
 
