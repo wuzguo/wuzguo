@@ -2,7 +2,7 @@
   
  <div style="width:65%;float:left; margin-right:10px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
+  <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
 </a>
 </div>
 
