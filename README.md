@@ -1,14 +1,4 @@
-<div>
-  <div style="width:70%; float:left; margin-right:10px;">
-  [![Zak's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-   <div style="float:left; margin-right:10px;">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact&card_width=20)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-</div>
-
+ [![Zak's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
