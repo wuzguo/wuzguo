@@ -1,9 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="width:30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact" />
 </a>
 <!--
 **wuzguo/wuzguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
