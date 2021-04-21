@@ -1,12 +1,12 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" style="width:65%;" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
+  <img align="left"  width="600" height="400" src="https://github-readme-stats.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
  
 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="width:30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact" />
+  <img align="center" style="width:30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuzguo&layout=compact" />
 
 </a>
 
