@@ -1,8 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/wuzguo/github-readme-stats">
   <img align="left" width="450" height="170" src="https://github-readme-stats-8hohv0ijn-wuzguos-projects.vercel.app/api?username=wuzguo&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/wuzguo/github-readme-stats">
   <img align="right" width="350" height="170" src="https://github-readme-stats-8hohv0ijn-wuzguos-projects.vercel.app/api/top-langs/?username=wuzguo&layout=compact" />
 </a>
 <!--
